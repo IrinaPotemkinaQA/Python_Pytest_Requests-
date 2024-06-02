@@ -1,0 +1,4 @@
+{
+  "tests/test_pokemon.py::test_part_of_response": true,
+  "tests/test_pokemon.py::test_trainer_name": true
+}
